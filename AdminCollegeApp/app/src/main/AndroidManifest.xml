@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admincollegeapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoadmin"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoadmin"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".notice.DeleteNoticeActivity"></activity>
+        <activity android:name=".faculty.UpdateTeacherActivity" />
+        <activity android:name=".faculty.AddTeacher" />
+        <activity android:name=".faculty.UpdateFaculty" />
+        <activity android:name=".UploadPdfActivity" />
+        <activity android:name=".UploadImage" />
+        <activity android:name=".notice.UploadNotice" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

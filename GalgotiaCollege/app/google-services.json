@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "490310786376",
+    "firebase_url": "https://galgotia-college-app.firebaseio.com",
+    "project_id": "galgotia-college-app",
+    "storage_bucket": "galgotia-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490310786376:android:6c03d5c2d9cd3331f8a77d",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490310786376-aasouj5tkk0fkdc2hh2rvq5kdt4o1ct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGty4i7mdhFYFaI_6B16Suw17nXUb0xOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490310786376-aasouj5tkk0fkdc2hh2rvq5kdt4o1ct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490310786376:android:96e1f55219d9c306f8a77d",
+        "android_client_info": {
+          "package_name": "com.example.galgotiacollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490310786376-aasouj5tkk0fkdc2hh2rvq5kdt4o1ct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGty4i7mdhFYFaI_6B16Suw17nXUb0xOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490310786376-aasouj5tkk0fkdc2hh2rvq5kdt4o1ct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

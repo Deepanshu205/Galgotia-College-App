@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Galgotias College</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college"> The Galgotias College of Engineering and Technology is approved by AICTE, Ministry of HRD, Government of India and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow formerly Uttar Pradesh Technical University. It was founded by Smt. Shakuntla Educational and Welfare Society. Mr. Suneel Galgotia, a resolute visionary, committed to provide world class technical and management education is the founder Chairman. Galgotias College of Engineering and Technology, established in 2000, synergizes theoretical knowledge and practical skills to promote all round professional competence. Galgotias College of Engineering and Technology has acquired a unique status in UP, the NCR region. The Campus, spread over 19 acres is located on an 8-lane expressway connecting Greater Noida with Noida and New Delhi. It is truly a self-sufficient campus with spacious and beautifully academic buildings, separate, fully secure and comfortable hostels for boys and girls, seminar and conference halls as well as indoor and outdoor games facilities and a multi-cuisine cafeteria.  </string>
+</resources>
